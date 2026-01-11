@@ -1,0 +1,6 @@
+@PeopleStack_HostAddress = http://localhost:5173
+
+GET {{PeopleStack_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
